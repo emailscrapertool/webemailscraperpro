@@ -46,7 +46,7 @@ This tool is designed for legitimate business purposes only. Users are responsib
 
 ## 📞 Contact
 
-For any inquiries, please contact us at emailscraperpro@gmail.com
+For any inquiries, please contact us at emailscrapertool@gmail.com
 
 ---
 
