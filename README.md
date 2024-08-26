@@ -1,6 +1,6 @@
 # Web Email Scraper Pro V1.1
 
-![Web Email Scraper Pro Logo](images/logo.png)
+![Web Email Scraper Pro Logo](/logo.png)
 
 Web Email Scraper Pro V1.1 is a powerful and user-friendly application designed to extract email addresses from websites based on specified keywords. This tool is ideal for businesses, marketers, and researchers who need to build targeted email lists efficiently.
 
