@@ -27,8 +27,7 @@ Web Email Scraper Pro V1.1 is a powerful and user-friendly application designed 
 
 ## 🖼️ Screenshots
 
-![Main Interface](images/screenshot_main.png)
-![Settings Window](images/screenshot_settings.png)
+![Main Interface](screenshot.jpg)
 
 ## 🔑 Licensing
 
